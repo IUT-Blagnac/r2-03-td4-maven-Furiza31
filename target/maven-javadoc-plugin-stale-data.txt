@@ -1,0 +1,59 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/workspace/r2-03-td4-maven-Furiza31/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'tp_qualite 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/workspace/r2-03-td4-maven-Furiza31/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'tp_qualite 1.0 API'
+'/workspace/r2-03-td4-maven-Furiza31/src/main/java/Schtroumpf.java'
+'/workspace/r2-03-td4-maven-Furiza31/src/main/java/Village.java'
+'/workspace/r2-03-td4-maven-Furiza31/src/main/java/MainSchtroumpf.java'
+/workspace/r2-03-td4-maven-Furiza31/src/main/java/Schtroumpf.java = 1645802751846
+/workspace/r2-03-td4-maven-Furiza31/src/main/java/Village.java = 1645802749521
+/workspace/r2-03-td4-maven-Furiza31/src/main/java/MainSchtroumpf.java = 1645802748109
+/workspace/r2-03-td4-maven-Furiza31/src/main/java = 1645802705093
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/MainSchtroumpf.html = 1645803644879
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/Schtroumpf.html = 1645803644915
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/Village.html = 1645803644935
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/element-list = 1645803644935
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/package-summary.html = 1645803644939
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/package-tree.html = 1645803644943
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/constant-values.html = 1645803644943
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/package-use.html = 1645803644959
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/overview-tree.html = 1645803644963
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/package-search-index.js = 1645803644979
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/package-search-index.zip = 1645803644987
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/type-search-index.js = 1645803644987
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/type-search-index.zip = 1645803644987
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/member-search-index.js = 1645803644987
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/member-search-index.zip = 1645803644991
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/index-all.html = 1645803644991
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/allclasses-index.html = 1645803644995
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/allpackages-index.html = 1645803644995
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/deprecated-list.html = 1645803645007
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/allclasses.html = 1645803645007
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/index.html = 1645803645007
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/help-doc.html = 1645803645011
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/stylesheet.css = 1645803645011
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/script.js = 1645803645011
+/workspace/r2-03-td4-maven-Furiza31/target/site/apidocs/search.js = 1645803645015
